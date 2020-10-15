@@ -1,5 +1,7 @@
 # Lorem ipsum
 
+RoboRally
+
 ![commit activity](https://img.shields.io/github/commit-activity/w/inf112-v19/Lorem-Ipsum.svg?style=popout)
 ![last commit](https://img.shields.io/github/last-commit/inf112-v19/Lorem-Ipsum.svg?style=popout)
 
